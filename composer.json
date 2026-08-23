@@ -1,5 +1,5 @@
 {
-  "name": "ciencuadras/sdk-php",
+  "name": "homlity/sdk-ciencuadras",
   "description": "SDK PHP para integracion con la API de Ciencuadras (Integradores)",
   "type": "library",
   "license": "MIT",
